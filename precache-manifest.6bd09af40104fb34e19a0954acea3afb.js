@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2da2fb41944ecef74e8a4a496a98f397",
+    "revision": "153068a8787b92e7a7d6d5cde4269601",
     "url": "/index.html"
   },
   {
-    "revision": "5bee3d2c61f0fbf4d1df",
+    "revision": "4e213cb4c1c49ab230ec",
     "url": "/static/css/main.7f6e0731.chunk.css"
   },
   {
-    "revision": "6a82976bda606796cb50",
-    "url": "/static/js/2.235e5505.chunk.js"
+    "revision": "c976404be8eaa04f2fc5",
+    "url": "/static/js/2.c4d39119.chunk.js"
   },
   {
     "revision": "d5d98c5782971ea94dfa10db66692a16",
-    "url": "/static/js/2.235e5505.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.c4d39119.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5bee3d2c61f0fbf4d1df",
-    "url": "/static/js/main.2ca47ffa.chunk.js"
+    "revision": "4e213cb4c1c49ab230ec",
+    "url": "/static/js/main.7cd2aff9.chunk.js"
   },
   {
     "revision": "6895f4b772d7db031df5",
@@ -176,16 +176,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/android.e5c4ba08.svg"
   },
   {
-    "revision": "52e0714e5ea7e3b96f50dbfb62de21d1",
-    "url": "/static/media/animated_logo.52e0714e.svg"
-  },
-  {
     "revision": "b6b12c7d07e0569e771c8aedf81a7767",
     "url": "/static/media/blogs_image.b6b12c7d.svg"
-  },
-  {
-    "revision": "dfcb7a585547c0b125d208b980d6f57f",
-    "url": "/static/media/cloud_infrastructure.dfcb7a58.svg"
   },
   {
     "revision": "d6d4086fb1cade58b3f786620e17c3ef",
@@ -198,10 +190,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "59389695208d7454c6607bed51ed4316",
     "url": "/static/media/developerActivity.59389695.svg"
-  },
-  {
-    "revision": "caed892b2a0b817a8e275ae29638edaf",
-    "url": "/static/media/education.caed892b.svg"
   },
   {
     "revision": "85d6957f6a0d678d1ac3932e5be4fcb2",
@@ -280,20 +268,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/fullstack.589bec7d.svg"
   },
   {
-    "revision": "ba18401b15f40a463898b706cc6ff08c",
-    "url": "/static/media/gcp_logo.ba18401b.png"
-  },
-  {
     "revision": "e64de169a4222787bc49f3706282ef96",
     "url": "/static/media/github_logo.e64de169.png"
-  },
-  {
-    "revision": "0c8a4c114ad00f7854e91550379b9b91",
-    "url": "/static/media/googleAssistant.0c8a4c11.jpg"
-  },
-  {
-    "revision": "c24ba79111a90758a3a472a906ab2901",
-    "url": "/static/media/googleAssistant.c24ba791.svg"
   },
   {
     "revision": "29152cf756a1facead5393c32e373371",
